@@ -2,7 +2,8 @@
 
 ##Overview of the project
 
-	Steve found the Daily volume and yearly return for each each stock. Although the code works well for a dozen stocks it might not work as well for thousands of stocks. And if it does, it may take along time to execute. In this project we are editing or refactoring the code to loop through all the data one time inorder to collect the same information. 
+Steve found the Daily volume and yearly return for each each stock. Although the code works well for a dozen stocks it might not work as well for thousands of stocks.
+And if it does, it may take along time to execute. In this project we are editing or refactoring the code to loop through all the data one time inorder to collect the same information. 
 
 
 ##Results
