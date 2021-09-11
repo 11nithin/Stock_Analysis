@@ -9,8 +9,8 @@ And if it does, it may take along time to execute. In this project we are editin
 ## Results
 
 The code refactured and gives the same result. We had a timer set in the code to find the code running time. And its found for 2017 after refacturing the code, the code ran 4 times faster than previous code and for 2018 code ran 4.6 times faster than the previous code. This a great proof that a code can be written in multiple ways and its important to write the code in most efficicent way.
-
-> '1a) Create a ticker Index
+````
+ '1a) Create a ticker Index
     Dim tickerIndex As Single
     tickerIndex = 0
 
@@ -76,6 +76,8 @@ The code refactured and gives the same result. We had a timer set in the code to
      Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
      
         Next i
+        
+        ````
 ## Summary
 ### Advantage of Refactoring the code in general 
  - Code runs  faster and efficiently 
