@@ -10,7 +10,7 @@ And if it does, it may take along time to execute. In this project we are editin
 
 The code refactured and gives the same result. We had a timer set in the code to find the code running time. And its found for 2017 after refacturing the code, the code ran 4 times faster than previous code and for 2018 code ran 4.6 times faster than the previous code. This a great proof that a code can be written in multiple ways and its important to write the code in most efficicent way.
   
-  __See the below changes made to the code__
+  _See the below changes made to the code_
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ````
  '1a) Create a ticker Index
