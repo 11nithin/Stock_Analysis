@@ -77,7 +77,7 @@ The code refactured and gives the same result. We had a timer set in the code to
      
         Next i
         
-        ````
+        
 ## Summary
 ### Advantage of Refactoring the code in general 
  - Code runs  faster and efficiently 
