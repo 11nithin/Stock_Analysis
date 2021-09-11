@@ -76,7 +76,7 @@ The code refactured and gives the same result. We had a timer set in the code to
      Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
      
         Next i
-        
+  ````      
         
 ## Summary
 ### Advantage of Refactoring the code in general 
