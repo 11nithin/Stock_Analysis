@@ -87,6 +87,5 @@ The code refactured and gives the same result. We had a timer set in the code to
 ### Disadvantage of Refactoring the code in general
  - Can be Time consuming 
  - Can run into error
-- 
 ### Advantage and Disadvantage of Refactoring the Orginial Code
 - Our target was to run the code efficiently for thousands of stocks. Refactoring the original code made the code run 4 times faster. For larger dataset it would be very useful.  When ran it error it was frustating and time consuming, it came beneficial at the end. 
