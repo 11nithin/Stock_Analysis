@@ -87,7 +87,7 @@ When comparing the stocks 2017 and 2018. Overall performance of 2017 is better t
 ### Advantage of Refactoring the code in general 
  - Code runs  faster and efficiently 
  - Modifying the code in future is easy
- - All users can easily understand the code and troubleshoot if ran into any issue
+ - All users can easily understand the code and troubleshoot if rUn into any error
 
 ### Disadvantage of Refactoring the code in general
  - Can be Time consuming 
