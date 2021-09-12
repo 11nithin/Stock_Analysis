@@ -14,11 +14,11 @@ When comparing the stocks 2017 and 2018. Overall performance of 2017 is better t
    _code run time for 2017_
    
   
-   ![2017](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/2017%20code%20run%20time%20After%20refactoring.PNG) 
+   ![2017](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png.PNG) 
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    _code run time for 2017 and 2018_
    
-   ![2018](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/2018%20code%20run%20time%20%20After%20refactoring.PNG)
+   ![2018](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.png.PNG)
    
   
   _Refactored code_
