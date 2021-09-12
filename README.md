@@ -12,6 +12,7 @@ The code refactured and gives the same result. We had a timer set in the code to
    _See the below screenshot of 'code run time for 2017 and 2018'_
    
    ![2017](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/2017%20code%20run%20time%20After%20refactoring.PNG) 
+   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    ![2018](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/2018%20code%20run%20time%20%20After%20refactoring.PNG)
    
   
