@@ -21,7 +21,7 @@ The code refactured and gives the same result. We had a timer set in the code to
    ![2018](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/2018%20code%20run%20time%20%20After%20refactoring.PNG)
    
   
-  _See the below changes made to the code_
+  _Refactored code_
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ````
    '1a) Create a ticker Index
