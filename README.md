@@ -7,8 +7,8 @@ And if it does, it may take along time to execute. In this project we are editin
 
 
 ## Results
-
-The code refactured and gives the same result. We had a timer set in the code to find the code running time. And its found for 2017 after refacturing the code, the code ran 4 times faster than previous code and for 2018 code ran 4.6 times faster than the previous code. This a great proof that a code can be written in multiple ways and its important to write the code in most efficicent way.
+When comparing the stocks 2017 and 2018. Overall performance of 2017 is better than 2018. The returns are formatted to show green and red color. So it will be easy to identify which year and stocks performed well.
+      The code refactured and gives the same result. We had a timer set in the code to find the code running time. And its found for 2017 after refacturing the code, the code ran 4 times faster than previous code and for 2018 code ran 4.6 times faster than the previous code. This a great proof that a code can be written in multiple ways and its important to write the code in most efficicent way.
 
 
    _code run time for 2017_
@@ -93,4 +93,5 @@ The code refactured and gives the same result. We had a timer set in the code to
  - Can be Time consuming 
  - Can run into error
 ### Advantage and Disadvantage of Refactoring the Orginial Code
-- Our target was to run the code efficiently for thousands of stocks. Refactoring the original code made the code run 4 times faster. For larger dataset it would be very useful.  When ran it error it was frustating and time consuming, it came beneficial at the end. 
+- Our target was to run the code efficiently for thousands of stocks. Refactoring the original code made the code run 4 times faster. For larger dataset it would be very useful. 
+- At the same time it was time consuming and ran into several errors while refactoring. But it works better for large amount of data.
