@@ -11,14 +11,14 @@ When comparing the stocks 2017 and 2018. Overall performance of 2017 is better t
       The code refactured and gives the same result. We had a timer set in the code to find the code running time. And its found for 2017 after refacturing the code, the code ran 4 times faster than previous code and for 2018 code ran 4.6 times faster than the previous code. This a great proof that a code can be written in multiple ways and its important to write the code in most efficicent way.
 
 
-   _code run time for 2017_
+   _Code run time for 2017_
    
   
-   ![2017](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/2017%20code%20run%20time%20After%20refactoring.PNG) 
+   ![2017](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png.PNG) 
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   _code run time for 2017 and 2018_
+   _Code run time for 2017 and 2018_
    
-   ![2018](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/2018%20code%20run%20time%20%20After%20refactoring.PNG)
+   ![2018](https://github.com/11nithin/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.png.PNG)
    
   
   _Refactored code_
